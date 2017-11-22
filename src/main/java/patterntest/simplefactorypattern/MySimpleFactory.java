@@ -1,6 +1,6 @@
 package patterntest.simplefactorypattern;
 
-import patterntest.product.MyProduct;
+import patterntest.product.FatherProduct1;
 import patterntest.product.MyProduct1;
 import patterntest.product.MyProduct2;
 
@@ -15,8 +15,8 @@ public class MySimpleFactory {
 	/**
 	 * 外部获取产品的工厂方法
 	 */
-	public static MyProduct getProduct(int type) {
-		MyProduct product = null;
+	public static FatherProduct1 getProduct(int type) {
+		FatherProduct1 product = null;
 		if (0 == type) {
 			// 普通牙膏
 			product = new MyProduct1();

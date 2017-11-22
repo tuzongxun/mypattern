@@ -1,22 +1,15 @@
 package patterntest.product;
 
 /**
- * 特效美白牙膏
+ * 普通牙刷
  * 
  * @author tzx
  *
  */
-public class MyProduct3 extends MyProduct {
+public class MyProduct3 extends FatherProduct2 {
 
 	public MyProduct3() {
-		addIngredient();
-		addWhitening();
+		assemble();
 	}
 
-	/**
-	 * 增加特效美白成分
-	 */
-	public void addWhitening() {
-
-	}
 }

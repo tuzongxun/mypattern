@@ -1,14 +1,14 @@
 package patterntest.product;
 
 /**
- * 儿童牙膏
+ * 普通牙膏
  * 
  * @author tzx
  *
  */
-public class MyProduct2 extends FatherProduct1 {
-	public MyProduct2() {
-		addIngredient();
+public class MyProduct4 extends FatherProduct2 {
+	public MyProduct4() {
+		assemble();
 		delead();
 	}
 

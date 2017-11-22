@@ -6,7 +6,7 @@ package patterntest.product;
  * @author tzx
  *
  */
-public class MyProduct1 extends MyProduct {
+public class MyProduct1 extends FatherProduct1 {
 	public MyProduct1() {
 		addIngredient();
 	}

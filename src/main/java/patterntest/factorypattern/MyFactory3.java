@@ -1,6 +1,6 @@
 package patterntest.factorypattern;
 
-import patterntest.product.MyProduct;
+import patterntest.product.FatherProduct1;
 import patterntest.product.MyProduct3;
 
 /*
@@ -9,7 +9,7 @@ import patterntest.product.MyProduct3;
 public class MyFactory3 implements MyFactory {
 
 	@Override
-	public MyProduct getProduct() {
+	public FatherProduct1 getProduct() {
 		return new MyProduct3();
 	}
 
