@@ -1,4 +1,4 @@
-package patterntest.factorypattern;
+package patterntest.factorypattern.factorypattern;
 
 import patterntest.factorypattern.product.FatherProduct1;
 import patterntest.factorypattern.product.MyProduct2;

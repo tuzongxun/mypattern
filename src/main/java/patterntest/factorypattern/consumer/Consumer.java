@@ -1,9 +1,9 @@
 package patterntest.factorypattern.consumer;
 
-import patterntest.factorypattern.MyFactory;
-import patterntest.factorypattern.MyFactory1;
-import patterntest.factorypattern.MyFactory2;
-import patterntest.factorypattern.MyFactory3;
+import patterntest.factorypattern.factorypattern.MyFactory;
+import patterntest.factorypattern.factorypattern.MyFactory1;
+import patterntest.factorypattern.factorypattern.MyFactory2;
+import patterntest.factorypattern.factorypattern.MyFactory3;
 
 /**
  * 消费者
