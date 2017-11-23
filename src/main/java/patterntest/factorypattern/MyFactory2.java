@@ -1,7 +1,7 @@
 package patterntest.factorypattern;
 
-import patterntest.product.FatherProduct1;
-import patterntest.product.MyProduct2;
+import patterntest.factorypattern.product.FatherProduct1;
+import patterntest.factorypattern.product.MyProduct2;
 
 /**
  * 生产儿童牙膏的分厂

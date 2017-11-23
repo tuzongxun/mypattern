@@ -1,6 +1,6 @@
 package patterntest.factorypattern;
 
-import patterntest.product.FatherProduct1;
+import patterntest.factorypattern.product.FatherProduct1;
 
 /**
  * 工厂方法模式

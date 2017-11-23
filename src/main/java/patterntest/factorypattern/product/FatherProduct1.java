@@ -1,12 +1,12 @@
-package patterntest.product;
+package patterntest.factorypattern.product;
 
 /**
- * 牙刷类产品父类
+ * 牙膏类产品父类
  * 
  * @author tzx
  *
  */
-public abstract class FatherProduct2 {
+public abstract class FatherProduct1 {
 	/**
 	 * 产品名称
 	 */
@@ -17,9 +17,9 @@ public abstract class FatherProduct2 {
 	protected String productSize;
 
 	/**
-	 * 组装
+	 * 添加必要成分
 	 */
-	public void assemble() {
+	public void addIngredient() {
 
 	}
 

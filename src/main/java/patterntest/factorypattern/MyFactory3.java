@@ -1,7 +1,7 @@
 package patterntest.factorypattern;
 
-import patterntest.product.FatherProduct1;
-import patterntest.product.MyProduct3;
+import patterntest.factorypattern.product.FatherProduct1;
+import patterntest.factorypattern.product.MyProduct3;
 
 /*
  * 生产特效美白牙膏的分厂

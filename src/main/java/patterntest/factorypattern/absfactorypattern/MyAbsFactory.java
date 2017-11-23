@@ -1,7 +1,7 @@
-package patterntest.absfactorypattern;
+package patterntest.factorypattern.absfactorypattern;
 
-import patterntest.product.FatherProduct1;
-import patterntest.product.FatherProduct2;
+import patterntest.factorypattern.product.FatherProduct1;
+import patterntest.factorypattern.product.FatherProduct2;
 
 /**
  * 产品族的抽象工厂

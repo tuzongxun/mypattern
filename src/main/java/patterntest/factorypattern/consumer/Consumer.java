@@ -1,4 +1,4 @@
-package patterntest.consumer;
+package patterntest.factorypattern.consumer;
 
 import patterntest.factorypattern.MyFactory;
 import patterntest.factorypattern.MyFactory1;

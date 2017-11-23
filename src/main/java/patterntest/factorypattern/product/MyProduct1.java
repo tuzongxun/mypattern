@@ -1,4 +1,4 @@
-package patterntest.product;
+package patterntest.factorypattern.product;
 
 /**
  * 普通牙膏

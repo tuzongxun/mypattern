@@ -1,8 +1,8 @@
-package patterntest.simplefactorypattern;
+package patterntest.factorypattern.simplefactorypattern;
 
-import patterntest.product.FatherProduct1;
-import patterntest.product.MyProduct1;
-import patterntest.product.MyProduct2;
+import patterntest.factorypattern.product.FatherProduct1;
+import patterntest.factorypattern.product.MyProduct1;
+import patterntest.factorypattern.product.MyProduct2;
 
 /**
  * 简单工厂模式
