@@ -11,6 +11,10 @@ import java.io.Serializable;
 
 public class HeadmasterModel implements Cloneable, Serializable {
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	/**
 	 * 老师姓名
 	 */
 	private String name;

@@ -1,5 +1,11 @@
 package patterntest.prototypepattern;
 
+/**
+ * 原型模式测试
+ * 
+ * @author tzx
+ * @date 2017年12月5日
+ */
 public class ProptotypeTest {
 
 	public static void main(String[] args) {
