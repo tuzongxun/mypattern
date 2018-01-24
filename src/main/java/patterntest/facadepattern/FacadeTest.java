@@ -1,4 +1,4 @@
-package patterntest.facade;
+package patterntest.facadepattern;
 
 /**
  * 外观模式测试

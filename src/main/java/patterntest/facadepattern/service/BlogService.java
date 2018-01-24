@@ -1,6 +1,6 @@
-package patterntest.facade.service;
+package patterntest.facadepattern.service;
 
-import patterntest.facade.LogHandle;
+import patterntest.facadepattern.LogHandle;
 
 /**
  * 博客操作类

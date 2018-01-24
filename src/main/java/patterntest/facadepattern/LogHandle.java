@@ -1,8 +1,8 @@
-package patterntest.facade;
+package patterntest.facadepattern;
 
-import patterntest.facade.logservice.AlarmLogService;
-import patterntest.facade.logservice.MonitorLogService;
-import patterntest.facade.logservice.SysLogService;
+import patterntest.facadepattern.logservice.AlarmLogService;
+import patterntest.facadepattern.logservice.MonitorLogService;
+import patterntest.facadepattern.logservice.SysLogService;
 
 /**
  * 日志统一管理类，外观类

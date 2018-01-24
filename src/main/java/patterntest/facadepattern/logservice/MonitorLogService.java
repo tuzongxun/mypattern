@@ -1,4 +1,4 @@
-package patterntest.facade.logservice;
+package patterntest.facadepattern.logservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
