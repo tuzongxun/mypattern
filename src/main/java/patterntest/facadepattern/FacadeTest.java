@@ -9,8 +9,8 @@ package patterntest.facadepattern;
 public class FacadeTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.print("sdfsadfsaf");
+//        System.out.println();
 	}
 
 }
